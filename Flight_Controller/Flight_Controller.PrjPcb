@@ -99,6 +99,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBATEXNP
 
+[Document4]
+DocumentPath=Flight_Controller.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1065,9 +1082,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=BlackPill.IntLib
-ComponentDesignItemID0=BlackPill_SCH
-ComponentSymbolReference0=BlackPill_SCH
+ComponentLibraryIdentifier0=SI2319DS-T1-E3.IntLib
+ComponentDesignItemID0=Si2319CDS
+ComponentSymbolReference0=Si2319CDS
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1094,7 +1111,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=BlackPill_PCB
+ModelName0=TO-236_VIS
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
