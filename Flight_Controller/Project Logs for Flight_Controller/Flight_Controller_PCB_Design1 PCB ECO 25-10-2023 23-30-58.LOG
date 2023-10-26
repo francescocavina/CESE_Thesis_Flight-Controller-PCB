@@ -1,0 +1,208 @@
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=T?
+Change Component Footprint: Designator=U? Old Footprint=TO-236_VIS New Footprint=MPU-92.65
+Change Component Comment : Designator=R? Old Comment=2,2kO, 0.25W New Comment=2,2kO
+Change Component Comment : Designator=R? Old Comment=2,2kO, 0.25W New Comment=2,2kO
+Change Component Comment : Designator=R? Old Comment=56O, 0.25W New Comment=56O
+Change Component Comment : Designator=R? Old Comment=56O, 0.25W New Comment=56O
+Change Component Comment : Designator=R? Old Comment=82O, 0.25W New Comment=82O
+Change Component Comment : Designator=R? Old Comment=82O, 0.25W New Comment=82O
+Change Component Comment : Designator=R? Old Comment=820O, 0.25W New Comment=820O
+Change Component Comment : Designator=R? Old Comment=820O, 0.25W New Comment=820O
+Change Component Comment : Designator=J2 Old Comment=532530270 New Comment=BUZZER
+Change Component Comment : Designator=J? Old Comment=532530270 New Comment=LED1
+Change Component Comment : Designator=J? Old Comment=532530270 New Comment=LED3
+Change Component Comment : Designator=J? Old Comment=532530270 New Comment=LED4
+Change Component Comment : Designator=J? Old Comment=532530270 New Comment=LED5
+Change Component Comment : Designator=U? Old Comment=SI2319DS-T1-E3 New Comment=MPU-92.65
+Change Component Comment : Designator=J1 Old Comment=XT60PW-M New Comment=BATTERY
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=J3 NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change component parameters: Designator = "U?" ("U?"); Footprint = "TO-236_VIS"; UniqueID = "\XPIOWIZY" ("\XPIOWIZY")
+Added Component: Designator=D1(DIOM5227X270N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S1M/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC-2 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S1M/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S1M/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOM5227X270N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S1M/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AC-2 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S1M/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S1M/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(TO-236_VIS)
+Added Component: Designator=Q4(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT23)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC846"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BC846/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC846/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J8-1
+Added Pin To Net: NetName=+5 Pin=J9-1
+Added Pin To Net: NetName=+5 Pin=J10-1
+Added Pin To Net: NetName=+5 Pin=J11-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=BUZZER_DRIVER Pin=R1-1
+Added Pin To Net: NetName=LED1_DRIVER Pin=R6-1
+Added Pin To Net: NetName=LED3_DRIVER Pin=R7-1
+Added Pin To Net: NetName=LED2_DRIVER Pin=R8-1
+Added Pin To Net: NetName=LED4_DRIVER Pin=R9-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-3
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=R2-2
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=R3-2
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=R4-2
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=R5-2
+Added Net: Name=NetJ11_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R6-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R2-1
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R7-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R3-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R8-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R4-1
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R9-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=R5-1
+Added Net: Name=NetQ7_3
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component D1 S1M
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component D2 S1M
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J4 ESC2
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J5 ESC3
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J6 ESC4
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J8 LED1
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J9 LED3
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J10 LED4
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J11 LED5
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q1 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q2 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q3 Si2319CDS
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q4 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q5 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q6 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q7 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R1 1.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R2 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R4 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R5 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R6 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R7 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R8 2,2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R9 2,2kO

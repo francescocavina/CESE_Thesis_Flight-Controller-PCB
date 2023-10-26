@@ -1,0 +1,136 @@
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=U?
+Change Component Comment : Designator=J3 Old Comment=ESC1 New Comment=ESC1_SIGNAL
+Change Component Comment : Designator=J4 Old Comment=ESC2 New Comment=ESC2_SIGNAL
+Change Component Comment : Designator=J5 Old Comment=ESC3 New Comment=ESC3_SIGNAL
+Change Component Comment : Designator=J6 Old Comment=ESC4 New Comment=ESC4_SIGNAL
+Change Component Comment : Designator=U1 Old Comment=MP1548 Buck/Step Down 3A Regulator New Comment=MP1548 Step Down Regulator
+Change Component Designator: OldDesignator=32 NewDesignator=*1
+Added Component: Designator=C1(CAPRB500W50L550T350H600)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FG26X7S2A225KRT06/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FG26X7S2A225KRT06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/FG26X7S2A225KRT06/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FG26X7S2A225KRT06/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(691216510002S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691216510002S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(691216510002S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691216510002S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(691216510002S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691216510002S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J15(691216510002S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691216510002S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/532530370/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "WM19005-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "532530370"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/532530370/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/532530370/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825910-2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=D1-A
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=RC_RECEIVER_RX Pin=J16-1
+Added Pin To Net: NetName=+5 Pin=J16-2
+Added Pin To Net: NetName=GND Pin=J16-3
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_OUTPUT Pin=R11-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-7
+Added Pin To Net: NetName=+12_BAT Pin=J1-1
+Added Pin To Net: NetName=+12_BAT Pin=Q3-3
+Added Pin To Net: NetName=+12_BAT Pin=R10-2
+Added Net: Name=+12_BAT
+Added Pin To Net: NetName=+12 Pin=J12-1
+Added Pin To Net: NetName=+12 Pin=J13-1
+Added Pin To Net: NetName=+12 Pin=J14-1
+Added Pin To Net: NetName=+12 Pin=J15-1
+Added Pin To Net: NetName=+12 Pin=Q3-2
+Added Pin To Net: NetName=+12 Pin=U1-3
+Added Net: Name=+12
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D2-A
+Added Pin To Net: NetName=NetC1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC1_1 Pin=Q3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R10-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=D2-C
+Added Pin To Net: NetName=NetD1_C Pin=SW1-1
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R11-1
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component C1 2.2uF
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J3 ESC1_SIGNAL
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J7 ST-LINK
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J12 ESC1_POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J13 ESC2_POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J14 ESC3_POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J15 ESC4_POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J16 RC RECEIVER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R3 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R10 1MO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R11 4.7kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component SW1 1825910-2
