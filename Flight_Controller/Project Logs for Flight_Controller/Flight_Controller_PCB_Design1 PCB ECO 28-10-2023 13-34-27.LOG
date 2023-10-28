@@ -1,0 +1,10 @@
+Added Component: Designator=J16(691216510002S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691216510002S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691216510002S/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J16 ESC4_POWER
