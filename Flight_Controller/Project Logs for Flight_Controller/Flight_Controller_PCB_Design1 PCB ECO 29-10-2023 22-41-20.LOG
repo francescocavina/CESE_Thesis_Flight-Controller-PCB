@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+12 Pin=J13-1
+Removed Pin From Net: NetName=+12 Pin=J14-1
+Removed Pin From Net: NetName=+12 Pin=J15-1
+Removed Pin From Net: NetName=+12 Pin=J16-1
+Change Component Comment : Designator=J13 Old Comment=ESC 1 POWER New Comment=ESC1_POWER
+Change Component Comment : Designator=J9 Old Comment=ESC 1 SIGNAL New Comment=ESC1_SIGNAL
+Change Component Comment : Designator=J14 Old Comment=ESC 2 POWER New Comment=ESC2_POWER
+Change Component Comment : Designator=J10 Old Comment=ESC 2 SIGNAL New Comment=ESC2_SIGNAL
+Change Component Comment : Designator=J15 Old Comment=ESC 3 POWER New Comment=ESC3_POWER
+Change Component Comment : Designator=J11 Old Comment=ESC 3 SIGNAL New Comment=ESC3_SIGNAL
+Change Component Comment : Designator=J16 Old Comment=ESC 4 POWER New Comment=ESC4_POWER
+Change Component Comment : Designator=J12 Old Comment=ESC 4 SIGNAL New Comment=ESC4_SIGNAL
+Change Component Comment : Designator=J5 Old Comment=LED 1 New Comment=LED1R
+Change Component Comment : Designator=J6 Old Comment=LED 2 New Comment=LED2W
+Change Component Comment : Designator=J7 Old Comment=LED 3 New Comment=LED3R
+Change Component Comment : Designator=J8 Old Comment=LED 4 New Comment=LED4W
+Change Component Comment : Designator=SW1 Old Comment=ON/OFF New Comment=1825910-2
+Added Pin To Net: NetName=+12_BAT Pin=J13-1
+Added Pin To Net: NetName=+12_BAT Pin=J14-1
+Added Pin To Net: NetName=+12_BAT Pin=J15-1
+Added Pin To Net: NetName=+12_BAT Pin=J16-1
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component SW1 1825910-2

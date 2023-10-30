@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+12 Pin=J13-1
+Removed Pin From Net: NetName=+12 Pin=J14-1
+Removed Pin From Net: NetName=+12 Pin=J15-1
+Removed Pin From Net: NetName=+12 Pin=J16-1
+Added Pin To Net: NetName=+12_BAT Pin=J13-1
+Added Pin To Net: NetName=+12_BAT Pin=J14-1
+Added Pin To Net: NetName=+12_BAT Pin=J15-1
+Added Pin To Net: NetName=+12_BAT Pin=J16-1
