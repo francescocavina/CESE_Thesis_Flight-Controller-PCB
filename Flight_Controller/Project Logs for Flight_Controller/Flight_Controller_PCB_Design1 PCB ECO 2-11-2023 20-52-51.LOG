@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ST-LINK_SDIO Pin=J2-2
+Removed Pin From Net: NetName=ST-LINK_SCK Pin=J2-3
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=J2
+Added Component: Designator=J?(MOLEX_532530470)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/53253-0470/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53253-0470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/53253-0470/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53253-0470/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J?-1
+Added Pin To Net: NetName=ST-LINK_SDIO Pin=J?-2
+Added Pin To Net: NetName=ST-LINK_SCK Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component J? ST-LINK

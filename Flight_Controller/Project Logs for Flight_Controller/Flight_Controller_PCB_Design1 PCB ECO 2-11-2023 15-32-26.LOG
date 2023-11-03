@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J13 Old Footprint=691216510002S New Footprint=ED500V-02P
+Change Component Footprint: Designator=J14 Old Footprint=691216510002S New Footprint=ED500V-02P
+Change Component Footprint: Designator=J15 Old Footprint=691216510002S New Footprint=ED500V-02P
+Change Component Footprint: Designator=J16 Old Footprint=691216510002S New Footprint=ED500V-02P
+Change component parameters: Designator = "J13" ("J13"); Footprint = "691216510002S"; UniqueID = "\BYTVRHBY" ("\BYTVRHBY")
+Change component parameters: Designator = "J14" ("J14"); Footprint = "691216510002S"; UniqueID = "\BDPBAZQW" ("\BDPBAZQW")
+Change component parameters: Designator = "J15" ("J15"); Footprint = "691216510002S"; UniqueID = "\YUUKHRKX" ("\YUUKHRKX")
+Change component parameters: Designator = "J16" ("J16"); Footprint = "691216510002S"; UniqueID = "\HHIFEWZO" ("\HHIFEWZO")
