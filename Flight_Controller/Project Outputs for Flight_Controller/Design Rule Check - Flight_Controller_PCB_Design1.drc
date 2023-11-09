@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Francesco\Thesis\CESE_Thesis_Flight-Controller-PCB\Flight_Controller\Flight_Controller_PCB_Design1.PcbDoc
-Date     : 7/11/2023
-Time     : 22:35:34
+Date     : 8/11/2023
+Time     : 23:16:22
 
 Processing Rule : Clearance Constraint (Gap=0.38mm) (InNet('+12_BAT')),(All)
 Rule Violations :0
@@ -48,23 +48,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Via (4.445mm,40.445mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Via (5.044mm,39mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Via (5.044mm,3mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (55.456mm,39mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (56.055mm,37.555mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (56.055mm,40.445mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (57.5mm,36.956mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (57.5mm,41.044mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (58.945mm,37.555mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (58.945mm,40.445mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (59.544mm,39mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (66.106mm,3mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (66.705mm,1.555mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (66.705mm,4.445mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (68.15mm,0.956mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (68.15mm,5.044mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (69.595mm,1.555mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (69.595mm,4.445mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Via (70.194mm,3mm) from Top Layer to Bottom Layer Dead Copper - Net Not Assigned.
-Rule Violations :48
+Rule Violations :32
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -91,7 +75,8 @@ Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (0.175mm < 0.254mm) Between Text "RC RECEIVER" (49.943mm,34.041mm) on Top Overlay And Text "U2" (52.526mm,32.768mm) on Top Overlay Silk Text to Silk Clearance [0.175mm]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -100,6 +85,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 48
+Violations Detected : 33
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
