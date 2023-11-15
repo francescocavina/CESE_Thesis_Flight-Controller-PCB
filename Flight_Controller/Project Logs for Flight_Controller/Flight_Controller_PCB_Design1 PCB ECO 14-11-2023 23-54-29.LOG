@@ -1,0 +1,242 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R2-1
+Removed Pin From Net: NetName=PW_ON/OFF_DRIVER_OUTPUT Pin=R2-2
+Removed Pin From Net: NetName=BATTERY_LEVEL Pin=R3-1
+Removed Pin From Net: NetName=+3.3 Pin=R3-2
+Removed Pin From Net: NetName=BUZZER_DRIVER Pin=R4-1
+Removed Pin From Net: NetName=NetQ3_1 Pin=R4-2
+Removed Pin From Net: NetName=BATTERY_LEVEL Pin=R5-2
+Removed Pin From Net: NetName=NetQ4_3 Pin=R6-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=R6-2
+Removed Pin From Net: NetName=NetQ5_3 Pin=R7-1
+Removed Pin From Net: NetName=NetJ6_2 Pin=R7-2
+Removed Pin From Net: NetName=NetQ6_3 Pin=R8-1
+Removed Pin From Net: NetName=NetJ7_2 Pin=R8-2
+Removed Pin From Net: NetName=NetQ7_3 Pin=R9-1
+Removed Pin From Net: NetName=NetJ8_2 Pin=R9-2
+Removed Pin From Net: NetName=LED1_DRIVER Pin=R10-1
+Removed Pin From Net: NetName=NetQ4_1 Pin=R10-2
+Removed Pin From Net: NetName=LED2_DRIVER Pin=R11-1
+Removed Pin From Net: NetName=NetQ5_1 Pin=R11-2
+Removed Pin From Net: NetName=LED3_DRIVER Pin=R12-1
+Removed Pin From Net: NetName=NetQ6_1 Pin=R12-2
+Removed Pin From Net: NetName=LED4_DRIVER Pin=R13-1
+Removed Pin From Net: NetName=NetQ7_1 Pin=R13-2
+Change Component Footprint: Designator=R1 Old Footprint=RESC3115X65N New Footprint=RT1206
+Change Component Footprint: Designator=R2 Old Footprint=RESC3115X65N New Footprint=RT1206
+Change Component Footprint: Designator=R5 Old Footprint=RESC3115X65N New Footprint=RT1206
+Change Component Footprint: Designator=R6 Old Footprint=RESC3115X65N New Footprint=RT1206
+Change Component Footprint: Designator=R8 Old Footprint=RESC3115X65N New Footprint=RT1206
+Change Component Footprint: Designator=R3 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R7 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R9 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R10 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R11 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R12 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R13 Old Footprint=RESC3116X65N New Footprint=RT1206
+Change Component Footprint: Designator=R4 Old Footprint=RESC3216X65 New Footprint=RT1206
+Change Component Comment : Designator=R1 Old Comment=1 New Comment=12kO
+Change Component Comment : Designator=R2 Old Comment=CRG1206F4K7/10 New Comment=370O
+Change Component Comment : Designator=R5 Old Comment=CRGP1206F27K New Comment=10kO
+Change Component Comment : Designator=R8 Old Comment=CRGP1206F56R New Comment=27kO
+Change Component Comment : Designator=R6 Old Comment=CRGP1206F56R New Comment=68kO
+Change Component Comment : Designator=R4 Old Comment=RC1206JR-131K2L New Comment=4.7kO
+Change Component Comment : Designator=R7 Old Comment=RE1206DRE0782RL New Comment=1.2kO
+Change Component Comment : Designator=R9 Old Comment=RE1206DRE0782RL New Comment=56O
+Change Component Comment : Designator=R11 Old Comment=RT1206BRE072K2L New Comment=56O
+Change Component Comment : Designator=R13 Old Comment=RT1206BRE072K2L New Comment=820O
+Change Component Comment : Designator=R10 Old Comment=RT1206DRE07820RL New Comment=82O
+Change Component Comment : Designator=R12 Old Comment=RT1206DRE07820RL New Comment=82O
+Change Component Comment : Designator=R3 Old Comment=RT1206FRE0768KL New Comment=1.4kO
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC3115X65N"; UniqueID = "\WBNOEODR" ("\WBNOEODR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC3115X65N"; UniqueID = "\DQHIJRXV" ("\DQHIJRXV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC3116X65N"; UniqueID = "\EHEJUGUD" ("\EHEJUGUD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC3216X65"; UniqueID = "\FIKBMBWA" ("\FIKBMBWA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC3115X65N"; UniqueID = "\ZPTZPYXW" ("\ZPTZPYXW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC3115X65N"; UniqueID = "\HOTEGKGB" ("\HOTEGKGB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC3116X65N"; UniqueID = "\XHWCGMQT" ("\XHWCGMQT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC3115X65N"; UniqueID = "\RFEXRHNH" ("\RFEXRHNH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC3116X65N"; UniqueID = "\UQJOKACH" ("\UQJOKACH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC3116X65N"; UniqueID = "\AMDOIPEJ" ("\AMDOIPEJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC3116X65N"; UniqueID = "\UELWSWOH" ("\UELWSWOH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC3116X65N"; UniqueID = "\ABCZDMZS" ("\ABCZDMZS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC3116X65N"; UniqueID = "\IMNIFMXX" ("\IMNIFMXX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=+12_BAT Pin=R2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-1
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_OUTPUT Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=R4-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-2
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=R6-1
+Added Pin To Net: NetName=+3.3 Pin=R6-2
+Added Pin To Net: NetName=BUZZER_DRIVER Pin=R7-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=R8-2
+Added Pin To Net: NetName=NetQ4_3 Pin=R9-1
+Added Pin To Net: NetName=NetJ5_2 Pin=R9-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R10-1
+Added Pin To Net: NetName=NetQ5_3 Pin=R10-2
+Added Pin To Net: NetName=NetQ6_3 Pin=R11-1
+Added Pin To Net: NetName=NetJ7_2 Pin=R11-2
+Added Pin To Net: NetName=NetJ8_2 Pin=R12-1
+Added Pin To Net: NetName=NetQ7_3 Pin=R12-2
+Added Pin To Net: NetName=LED1_DRIVER Pin=R13-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R13-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R14-1
+Added Pin To Net: NetName=LED2_DRIVER Pin=R14-2
+Added Pin To Net: NetName=LED3_DRIVER Pin=R15-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R15-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R16-1
+Added Pin To Net: NetName=LED4_DRIVER Pin=R16-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetD1_A
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component D1 S1M
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component D2 S1M
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component J1 BATTERY
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component J2 ST-LINK
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component J3 BUZZER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component J4 RC RECEIVER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J5 LED 1
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J6 LED 2
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J7 LED 3
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J8 LED 4
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J9 ESC 1 SIGNAL
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J10 ESC 2 SIGNAL
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J11 ESC 3 SIGNAL
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J12 ESC 4 SIGNAL
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J13 ESC 1 POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J14 ESC 2 POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J15 ESC 3 POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component J16 ESC 4 POWER
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q1 Si2319CDS
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component Q2 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component Q3 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component Q4 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component Q5 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component Q6 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component Q7 BC846
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R1 12kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R2 370O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R3 1.4kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R4 4.7kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R5 10kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R6 68kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R7 1.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R8 27kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R9 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R10 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R11 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R12 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R13 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R14 2.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R15 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R16 2.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component SW1 ON/OFF
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component U1 MP1548
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component U2 HW-290
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component U3 BLACK PILL

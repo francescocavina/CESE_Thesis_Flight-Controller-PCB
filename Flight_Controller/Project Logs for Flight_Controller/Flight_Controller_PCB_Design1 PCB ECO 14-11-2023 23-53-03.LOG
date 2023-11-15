@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-1
+Removed Pin From Net: NetName=+12_BAT Pin=R1-2
+Removed Pin From Net: NetName=PW_ON/OFF_DRIVER_OUTPUT Pin=R2-2
+Removed Pin From Net: NetName=BATTERY_LEVEL Pin=R3-1
+Removed Pin From Net: NetName=+3.3 Pin=R3-2
+Removed Pin From Net: NetName=BUZZER_DRIVER Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=BATTERY_LEVEL Pin=R5-2
+Removed Pin From Net: NetName=LED1_DRIVER Pin=R10-1
+Removed Pin From Net: NetName=LED2_DRIVER Pin=R11-1
+Removed Pin From Net: NetName=LED3_DRIVER Pin=R12-1
+Removed Pin From Net: NetName=LED4_DRIVER Pin=R13-1
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=C1
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=R1
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=R2
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=R3
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=R4
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=R5
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R6
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R7
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R8
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R9
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R10
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R11
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R12
+Removed Member From Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=R13
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Change Component Designator: OldDesignator=J4 NewDesignator=J?
+Change Component Designator: OldDesignator=J5 NewDesignator=J?
+Change Component Designator: OldDesignator=J6 NewDesignator=J?
+Change Component Designator: OldDesignator=J7 NewDesignator=J?
+Change Component Designator: OldDesignator=J8 NewDesignator=J?
+Change Component Designator: OldDesignator=J9 NewDesignator=J?
+Change Component Designator: OldDesignator=J10 NewDesignator=J?
+Change Component Designator: OldDesignator=J11 NewDesignator=J?
+Change Component Designator: OldDesignator=J12 NewDesignator=J?
+Change Component Designator: OldDesignator=J13 NewDesignator=J?
+Change Component Designator: OldDesignator=J14 NewDesignator=J?
+Change Component Designator: OldDesignator=J15 NewDesignator=J?
+Change Component Designator: OldDesignator=J16 NewDesignator=J?
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q?
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RT1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT1206DRE07820RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=R?-1
+Added Pin To Net: NetName=BUZZER_DRIVER Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=LED1_DRIVER Pin=R?-1
+Added Pin To Net: NetName=LED3_DRIVER Pin=R?-1
+Added Pin To Net: NetName=NetC1_1 Pin=R?-1
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=R?-1
+Added Pin To Net: NetName=+3.3 Pin=R?-2
+Added Pin To Net: NetName=+12_BAT Pin=R?-2
+Added Pin To Net: NetName=+12_BAT Pin=R?-2
+Added Pin To Net: NetName=BATTERY_LEVEL Pin=R?-2
+Added Pin To Net: NetName=LED2_DRIVER Pin=R?-2
+Added Pin To Net: NetName=LED4_DRIVER Pin=R?-2
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=R?-2
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_OUTPUT Pin=R?-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetD?_A
+Change Net Name : Old Net Name=NetD1_C New Net Name=NetD?_C
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ?_2
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Net: Name=NetQ?_3
+Add Net: Net with name "NetQ?_3" already exists
+Add Net: Net with name "NetQ?_3" already exists
+Add Net: Net with name "NetQ?_3" already exists
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R? 10kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R? 370O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R? 12kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R? 4.7kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet1 Member=Component R? 1.4kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R? 27kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R? 68kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component R? 1.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 2.2kO
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 82O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 820O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 56O
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet3 Member=Component R? 2.2kO
