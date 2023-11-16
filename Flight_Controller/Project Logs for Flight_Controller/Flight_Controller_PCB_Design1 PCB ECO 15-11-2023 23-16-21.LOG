@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IMU_SDA Pin=U2-2
+Removed Pin From Net: NetName=IMU_SCL Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=IMU_SDA Pin=U2-3
+Added Pin To Net: NetName=IMU_SCL Pin=U2-4
+Added Member To Class: ClassName=Flight_Controller_Schematic_Sheet2 Member=Component U3 BLACK PILL
