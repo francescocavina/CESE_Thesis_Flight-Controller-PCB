@@ -1,0 +1,12 @@
+Removed Parameter MP: from Part J2
+Removed Parameter MP: from Part J4
+Removed Parameter MP: from Part Q3
+Removed Parameter MP: from Part R6
+Removed Parameter MP: from Part R7
+Removed Parameter MP: from Part R8
+Change Value of Parameter Manufacturer in Part R6 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R7 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R8 Old= New=YAGEO
+Added Parameter Manufacturer=JST to Part J2
+Added Parameter Manufacturer=JST to Part J3
+Added Parameter Manufacturer=JST to Part J4

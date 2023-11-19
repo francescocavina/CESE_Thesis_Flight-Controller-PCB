@@ -1,0 +1,16 @@
+Change Component Comment : Designator=D1 Old Comment=1N4007W-T New Comment=1N4007FL
+Change Component Comment : Designator=D2 Old Comment=1N4007W-T New Comment=1N4007FL
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SODFL3818X130N"; UniqueID = "\AACGSMUZ" ("\AACGSMUZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMC Diode Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer's Part #"; Value = "1N4007FL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123FL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SODFL3818X130N"; UniqueID = "\PTKHDLSG" ("\PTKHDLSG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SMC Diode Solutions"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer's Part #"; Value = "1N4007FL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-123FL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

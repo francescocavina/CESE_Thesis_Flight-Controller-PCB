@@ -1,0 +1,16 @@
+Removed Parameter MP: from Part D1
+Removed Parameter MP: from Part D2
+Removed Parameter MP: from Part J1
+Removed Parameter MP: from Part Q2
+Removed Parameter MP: from Part R1
+Removed Parameter MP: from Part R2
+Removed Parameter MP: from Part R3
+Removed Parameter MP: from Part R4
+Removed Parameter MP: from Part R5
+Removed Parameter MP: from Part SW1
+Change Value of Parameter Manufacturer in Part R1 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R2 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R3 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R4 Old= New=YAGEO
+Change Value of Parameter Manufacturer in Part R5 Old= New=YAGEO
+Added Parameter Manufacturer=AMASS to Part J1

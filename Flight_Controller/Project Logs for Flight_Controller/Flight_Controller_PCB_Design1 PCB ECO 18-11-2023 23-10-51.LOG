@@ -1,0 +1,23 @@
+Change Component Comment : Designator=R3 Old Comment=1.4kO New Comment=1.2kO
+Change Component Comment : Designator=R2 Old Comment=370O New Comment=470O
+Change Component Description : Designator=R3 Old Description=1206 SMD Resistor 1/8W New Description=RES 1.2K OHM 1% 1/4W 1206
+Change Component Description : Designator=R5 Old Description=1206 SMD Resistor 1/8W New Description=RES 10K OHM 1% 1/4W 1206
+Change Component Description : Designator=R2 Old Description=1206 SMD RESISTOR 1/8W New Description=RES 470 OHM 1% 1/4W 1206
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RT1206"; UniqueID = "\DQHIJRXV" ("\DQHIJRXV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part #"; Value = "RC1206FR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RT1206"; UniqueID = "\EHEJUGUD" ("\EHEJUGUD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part #"; Value = "RC1206FR-071K2L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RT1206"; UniqueID = "\ZPTZPYXW" ("\ZPTZPYXW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part #"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

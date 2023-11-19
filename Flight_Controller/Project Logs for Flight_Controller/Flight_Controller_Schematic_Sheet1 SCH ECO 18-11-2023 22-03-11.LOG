@@ -1,0 +1,49 @@
+Removed Parameter Availability: from Part Q2
+Removed Parameter Availability: from Part R1
+Removed Parameter Availability: from Part R2
+Removed Parameter Availability: from Part R3
+Removed Parameter Availability: from Part R4
+Removed Parameter Availability: from Part R5
+Removed Parameter Availability:In Stock from Part SW1
+Removed Parameter Availability:Not in stock from Part J1
+Removed Parameter Check_prices:https://www.snapeda.com/parts/1825910-2/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda from Part SW1
+Removed Parameter Check_prices:https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda from Part J1
+Removed Parameter EU_RoHS_Compliance:Compliant from Part SW1
+Removed Parameter Manufacturer's Part #:1N4007FL from Part D1
+Removed Parameter Manufacturer's Part #:1N4007FL from Part D2
+Removed Parameter Manufacturer's Part #:* from Part R1
+Removed Parameter Manufacturer's Part #:* from Part R2
+Removed Parameter Manufacturer's Part #:* from Part R3
+Removed Parameter Manufacturer's Part #:* from Part R4
+Removed Parameter Manufacturer's Part #:* from Part R5
+Removed Parameter MF:AMASS from Part J1
+Removed Parameter MF: from Part D1
+Removed Parameter MF: from Part D2
+Removed Parameter MF: from Part Q2
+Removed Parameter MF: from Part R1
+Removed Parameter MF: from Part R2
+Removed Parameter MF: from Part R3
+Removed Parameter MF: from Part R4
+Removed Parameter MF: from Part R5
+Removed Parameter MF:TE Connectivity from Part SW1
+Removed Parameter Price: from Part Q2
+Removed Parameter Price: from Part R1
+Removed Parameter Price: from Part R2
+Removed Parameter Price: from Part R3
+Removed Parameter Price: from Part R4
+Removed Parameter Price: from Part R5
+Removed Parameter Price:None from Part J1
+Removed Parameter Price:None from Part SW1
+Removed Parameter Purchase-URL:https://pricing.snapeda.com/search/part/1825910-2/?ref=eda from Part SW1
+Change Value of Parameter MP in Part J1 Old=XT60-M New=
+Change Value of Parameter MP in Part Q2 Old=BC846 New=
+Change Value of Parameter MP in Part SW1 Old=1825910-2 New=
+Change Value of Parameter Package in Part SW1 Old=None New=
+Added Parameter Manufacturer Part #=1N4007FL to Part D1
+Added Parameter Manufacturer Part #=1N4007FL to Part D2
+Added Parameter Manufacturer Part #=XT60-M to Part J1
+Added Parameter Type=SMD to Part D1
+Added Parameter Type=SMD to Part D2
+Added Parameter Type=TH to Part J1
+Added Parameter Type=TH to Part SW1
+Added Parameter Type=TH to Part U1

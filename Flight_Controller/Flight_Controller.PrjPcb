@@ -137,6 +137,74 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Flight_Controller\Design Rule Check - Flight_Controller_PCB_Design1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Flight_Controller\Flight_Controller_PCB_Design1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -386,22 +454,22 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Final
@@ -410,47 +478,51 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=BoardID=MBATEXNP|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842753~1,16842754~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=D:\Francesco\Thesis\CESE_Thesis_Flight-Controller-PCB\Flight_Controller\Flight_Controller_PCB_Design1.PcbDoc
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
@@ -1110,58 +1182,88 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=532530270.IntLib
-ComponentDesignItemID0=532530270
-ComponentSymbolReference0=532530270
-ComponentUpdate0=1
+ComponentLibraryIdentifier0=1825910-2.IntLib
+ComponentDesignItemID0=1825910-2
+ComponentSymbolReference0=1825910-2
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=532530370.IntLib
-ComponentDesignItemID1=532530370
-ComponentSymbolReference1=532530370
-ComponentUpdate1=1
+ComponentLibraryIdentifier1=1N4007FLTR.IntLib
+ComponentDesignItemID1=1N4007FL
+ComponentSymbolReference1=1N4007FL
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=691216510002S.IntLib
-ComponentDesignItemID2=691216510002S
-ComponentSymbolReference2=691216510002S
-ComponentUpdate2=1
+ComponentLibraryIdentifier2=B2B-XH-ALFSN.IntLib
+ComponentDesignItemID2=B2B-XH-ALFSN
+ComponentSymbolReference2=B2B-XH-ALFSN
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=BC846.IntLib
-ComponentDesignItemID3=BC846
-ComponentSymbolReference3=BC846
-ComponentUpdate3=1
+ComponentLibraryIdentifier3=B3B-XH-A_LF__SN_.IntLib
+ComponentDesignItemID3=B4B-XH-A(LF)(SN)
+ComponentSymbolReference3=B4B-XH-A(LF)(SN)
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=MetalFilm_2.2k_0.25W.IntLib
-ComponentDesignItemID4=MetalFilm_2.2k_0.25W
-ComponentSymbolReference4=MetalFilm_2.2k_0.25W
-ComponentUpdate4=1
+ComponentLibraryIdentifier4=B4B-XH-A_LF__SN_.IntLib
+ComponentDesignItemID4=B4B-XH-A(LF)(SN)
+ComponentSymbolReference4=B4B-XH-A(LF)(SN)
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=MetalFilm_56_0.25W.IntLib
-ComponentDesignItemID5=MetalFilm_56_0.25W
-ComponentSymbolReference5=MetalFilm_56_0.25W
-ComponentUpdate5=1
+ComponentLibraryIdentifier5=BC846.IntLib
+ComponentDesignItemID5=BC846
+ComponentSymbolReference5=BC846
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=MetalFilm_82_0.25W.IntLib
-ComponentDesignItemID6=MetalFilm_82_0.25W
-ComponentSymbolReference6=MetalFilm_82_0.25W
-ComponentUpdate6=1
+ComponentLibraryIdentifier6=BlackPill.IntLib
+ComponentDesignItemID6=BlackPill_SCH
+ComponentSymbolReference6=BlackPill_SCH
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=MetalFilm_820_0.25W.IntLib
-ComponentDesignItemID7=MetalFilm_820_0.25W
-ComponentSymbolReference7=MetalFilm_820_0.25W
-ComponentUpdate7=1
+ComponentLibraryIdentifier7=ED500V-02P.IntLib
+ComponentDesignItemID7=ED500V-02P
+ComponentSymbolReference7=ED500V-02P
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=HW290.IntLib
+ComponentDesignItemID8=HW-290
+ComponentSymbolReference8=HW-290
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=MP1584 Buck-Step Down 3A Converter.IntLib
+ComponentDesignItemID9=MP1548 Buck/Step Down 3A Regulator
+ComponentSymbolReference9=MP1548 Buck/Step Down 3A Regulator
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=RT1206.IntLib
+ComponentDesignItemID10=RT1206
+ComponentSymbolReference10=RT1206
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=SI2319DS-T1-E3.IntLib
+ComponentDesignItemID11=SI2319DS
+ComponentSymbolReference11=SI2319DS
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=XT60-M.IntLib
+ComponentDesignItemID12=XT60-M
+ComponentSymbolReference12=XT60-M
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1183,43 +1285,80 @@ ParameterName2=Comment
 ParameterUpdate2=1
 ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Description
+ParameterName4=Copyright
 ParameterUpdate4=1
-ParameterName5=Digi-Key_Part_Number
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=EU_RoHS_Compliance
 ParameterUpdate6=1
-ParameterName7=MF
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=MP
+ParameterName8=Manufacturer
 ParameterUpdate8=1
-ParameterName9=Package
+ParameterName9=Manufacturer Part #
 ParameterUpdate9=1
-ParameterName10=Price
+ParameterName10=Manufacturer_Part_Number
 ParameterUpdate10=1
-ParameterName11=Purchase-URL
+ParameterName11=Manufacturer's Part #
 ParameterUpdate11=1
-ParameterName12=SnapEDA_Link
+ParameterName12=MF
 ParameterUpdate12=1
-ParameterName13=Value
+ParameterName13=Mfr_Name
 ParameterUpdate13=1
+ParameterName14=MP
+ParameterUpdate14=1
+ParameterName15=Package
+ParameterUpdate15=1
+ParameterName16=Price
+ParameterUpdate16=1
+ParameterName17=Purchase-URL
+ParameterUpdate17=1
+ParameterName18=RefDes
+ParameterUpdate18=1
+ParameterName19=SnapEDA_Link
+ParameterUpdate19=1
+ParameterName20=Type
+ParameterUpdate20=1
+ParameterName21=Value
+ParameterUpdate21=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=2
+ModelName0=AMASS_XT60-M
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=691216510002S
+ModelName1=BlackPill_PCB
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=MOLEX_532530270
+ModelName2=CONN_B2B-XH-ALFSN_JST
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=RESAD1100W55L680D260
+ModelName3=ED500V-02P
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=SOT23
+ModelName4=JST_B4B-XH-A(LF)(SN)
 ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=MP1548 Buck/Step Down 3A Regulator
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=MPU-92.65
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=RT1206
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=SODFL3818X130N
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SOT23
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=TE_1825910-2
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=TO-236_VIS
+ModelUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

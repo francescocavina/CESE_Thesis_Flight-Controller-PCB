@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetD1_A Pin=D1-A
+Removed Pin From Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=D2-A
+Change Component Footprint: Designator=D1 Old Footprint=DIOM5227X270N New Footprint=SODFL3818X130N
+Change Component Footprint: Designator=D2 Old Footprint=DIOM5227X270N New Footprint=SODFL3818X130N
+Change Component Comment : Designator=D1 Old Comment=S1M New Comment=1N4007W-T
+Change Component Comment : Designator=D2 Old Comment=S1M New Comment=1N4007W-T
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIOM5227X270N"; UniqueID = "\RDWIWHAR" ("\RDWIWHAR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4007W/Schleicher/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "EIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4007W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AA-214 EIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4007W/Schleicher/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIOM5227X270N"; UniqueID = "\BXITCJIE" ("\BXITCJIE")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4007W/Schleicher/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "EIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4007W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AA-214 EIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4007W/Schleicher/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=D1-2
+Added Pin To Net: NetName=PW_ON/OFF_DRIVER_INPUT Pin=D2-2
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD1_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetD1_1 Pin=SW1-3
+Added Net: Name=NetD1_1

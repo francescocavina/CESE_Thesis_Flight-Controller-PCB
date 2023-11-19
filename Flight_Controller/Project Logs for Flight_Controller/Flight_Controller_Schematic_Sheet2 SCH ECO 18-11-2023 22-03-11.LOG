@@ -1,0 +1,34 @@
+Removed Parameter Availability: from Part Q3
+Removed Parameter Availability: from Part R6
+Removed Parameter Availability: from Part R7
+Removed Parameter Availability: from Part R8
+Removed Parameter Check_prices:https://www.snapeda.com/parts/B4B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda from Part J2
+Removed Parameter Check_prices:https://www.snapeda.com/parts/B4B-XH-A%20(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda from Part J4
+Removed Parameter Copyright:Copyright (C) 2023 Ultra Librarian. All rights reserved. from Part J3
+Removed Parameter Manufacturer's Part #:* from Part R6
+Removed Parameter Manufacturer's Part #:* from Part R7
+Removed Parameter Manufacturer's Part #:* from Part R8
+Removed Parameter Manufacturer_Part_Number:B2B-XH-A(LF)(SN) from Part J3
+Removed Parameter MF: from Part Q3
+Removed Parameter MF: from Part R6
+Removed Parameter MF: from Part R7
+Removed Parameter MF: from Part R8
+Removed Parameter MF:JST Sales from Part J2
+Removed Parameter MF:JST Sales from Part J4
+Removed Parameter Mfr_Name:JST from Part J3
+Removed Parameter Price: from Part Q3
+Removed Parameter Price: from Part R6
+Removed Parameter Price: from Part R7
+Removed Parameter Price: from Part R8
+Removed Parameter RefDes:RefDes from Part J3
+Change Value of Parameter MP in Part J2 Old=B4B-XH-A (LF)(SN) New=
+Change Value of Parameter Type in Part J3 Old=DEV New=TH
+Change Value of Parameter MP in Part J4 Old=B4B-XH-A (LF)(SN) New=
+Change Value of Parameter MP in Part Q3 Old=BC846 New=
+Added Parameter Manufacturer Part #=B2B-XH-A(LF)(SN) to Part J3
+Added Parameter Manufacturer Part #=B4B-XH-A (LF)(SN) to Part J2
+Added Parameter Manufacturer Part #=B4B-XH-A (LF)(SN) to Part J4
+Added Parameter Type=TH to Part J2
+Added Parameter Type=TH to Part J4
+Added Parameter Type=TH to Part U2
+Added Parameter Type=TH to Part U3
