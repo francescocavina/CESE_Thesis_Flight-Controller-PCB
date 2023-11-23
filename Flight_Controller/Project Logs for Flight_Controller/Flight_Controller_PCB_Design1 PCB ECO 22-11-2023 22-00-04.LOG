@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+3.3 Pin=R6-2
+Added Pin To Net: NetName=+12_BAT Pin=R6-2
